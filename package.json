@@ -4,7 +4,7 @@
   "description": "Minimalistic Node.js starter code",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NorikDavtian/node-tap-es6-example.git"
+    "url": "git+https://github.com/NorikDavtian/nodejs-babel-tap.git"
   },
   "keywords": [
     "Node.js",
@@ -15,9 +15,9 @@
   "author": "Norik Davtian <@norik.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NorikDavtian/node-tap-es6-example/issues"
+    "url": "https://github.com/NorikDavtian/nodejs-babel-tap/issues"
   },
-  "homepage": "https://github.com/NorikDavtian/node-tap-es6-example#readme",
+  "homepage": "https://github.com/NorikDavtian/nodejs-babel-tap#readme",
   "dependencies": {
     "assert": "^1.4.1",
     "babel-runtime": "^6.26.0"
