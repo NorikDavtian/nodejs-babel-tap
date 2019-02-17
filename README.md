@@ -1,4 +1,7 @@
 # Minimalistic ES6+ starter with Babel and Tap for testing
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/NorikDavtian/nodejs-babel-tap.svg)](https://greenkeeper.io/)
+
 just a simple nodejs boilerplate project starter
 includes: 
 - [Babel.js](https://babeljs.io/) for ES6+ modules
